@@ -6,7 +6,7 @@
 
 This an an open source, and permanent version, of the Uniswap interface - a protocol for decentralized exchange of Ethereum tokens.
 
-- Website: [uniswap.io](https://uniswap.io/)
+- Permanent Website: [PermaSwap](https://arweave.net/8fGq_8cmE60DBLhb17GyhnsR2PNqkMBuWArfHe-rspY)
 - Docs: [docs.uniswap.io](https://docs.uniswap.io/)
 - Twitter: [@UniswapExchange](https://twitter.com/UniswapExchange)
 - Reddit: [/r/Uniswap](https://www.reddit.com/r/UniSwap/)
